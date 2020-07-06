@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_visit"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="Check Website"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_donate"
+        android:title="Buy me a coffee" />
+    <item
+        android:id="@+id/action_rate"
+        android:title="Rate Us" />
+    <item
+        android:id="@+id/action_feedback"
+        android:title="Feedback" />
+</menu>
